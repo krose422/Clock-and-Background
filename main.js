@@ -24,6 +24,7 @@ var timer = window.setInterval(function getTime() {
   clock.style.backgroundColor = color;
   hexColor.innerHTML = color;
 
+
   if (hours === 0) {
     hours = 12;
   }
@@ -37,3 +38,9 @@ var timer = window.setInterval(function getTime() {
 
   return currentTime;
 }, 1000);
+
+
+
+
+
+

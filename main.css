@@ -4,15 +4,18 @@
   height: 400px;
   width: 600px; }
 
+.currentTime {
+  border-bottom: 1px solid white;
+  padding-bottom: 60px; }
+
 #time {
   font-family: 'Lobster', cursive;
   color: white;
   font-size: 4em;
   display: block;
   text-align: center;
-  border-bottom: 1px solid white;
-  padding-top: 120px;
-  padding-bottom: 70px; }
+  padding-top: 110px;
+  padding-bottom: 10px; }
 
 #hexColor {
   font-family: 'Raleway', Helvetica, sans-serif;
